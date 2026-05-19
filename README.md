@@ -1,9 +1,23 @@
+# Hi there, I'm Usamah! 👋
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ussmh699) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:usamahas440@gmail.com) 
-
+Welcome to my GitHub profile. I am an Informatics student focused on **Software Engineering** and highly interested in **Cybersecurity**. 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codewithamasu&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🚀 About Me
+- 🎓 Currently studying Informatics at Universitas Teknologi Yogyakarta.
+- 💻 Passionate about building robust backend architectures, low-level programming, and exploring network security.
+- 🛠️ Tech Stack: Node.js (NestJS), Typescript, Python, PHP (Laravel), & Neovim/LazyVim user.
+- 🌐 Personal : [usamahassalafi.my.id](https://usamahassalafi.my.id/) <!-- Ganti # dengan link portofolio kamu nanti -->
+
+---
+
+### 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ussmh699) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:usamahas440@gmail.com) 
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=codewithamasu&icon=0&color=0" alt="Visit Count" />
+</p>
