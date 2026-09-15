@@ -2,15 +2,6 @@
 
 Welcome to my GitHub profile. I am an Informatics student focused on **Software Engineering** and highly interested in **Cybersecurity**. 
 
----
-
-### 🚀 About Me
-- 🎓 Currently studying Informatics at Universitas Teknologi Yogyakarta.
-- 💻 Passionate about building robust backend architectures, low-level programming, and exploring network security.
-- 🛠️ Tech Stack: Node.js (NestJS), Typescript, Python, PHP (Laravel), & Neovim/LazyVim user.
-- 🌐 Personal : [usamahassalafi.my.id](https://usamahassalafi.my.id/) <!-- Ganti # dengan link portofolio kamu nanti -->
-
----
 
 ### 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ussmh699) 
