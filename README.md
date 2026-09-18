@@ -1,6 +1,6 @@
 # Hi there, I'm Usamah! 👋
 
-Welcome to my GitHub profile. I am an Informatics student focused on **Software Engineering** and highly interested in **Cybersecurity**. 
+Welcome to my GitHub profile. 
 
 
 ### 🌐 Socials
